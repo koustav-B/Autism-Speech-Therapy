@@ -1,3 +1,4 @@
+#----------------for displaying output in the terminal only----------------------------------------------
 import whisper
 import numpy as np
 import pyaudio
