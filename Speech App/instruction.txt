@@ -1,0 +1,25 @@
+run the app: streamlit run my_streamlit_app.py
+install the following package:
+--------->
+all the modules used in your code:
+
+whisper
+numpy
+pyaudio
+wave
+librosa
+nltk
+nltk.tokenize
+nltk.sentiment
+nltk.corpus
+nltk.probability
+nltk.util
+nltk.chunk
+nltk (for pos_tag)
+matplotlib.pyplot
+wordcloud
+collections (for Counter)
+pydub
+pyttsx3
+language_tool_python
+joblib
